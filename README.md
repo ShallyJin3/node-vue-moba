@@ -1,2 +1,2 @@
 # node-vue-moba
-is`t just use to practice
+it`s just use to practice
